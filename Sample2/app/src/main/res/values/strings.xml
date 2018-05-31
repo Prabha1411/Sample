@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sample2</string>
+    <string name="but1">Implicit</string>
+    <string name="but2">Explicit</string>
+
+</resources>
